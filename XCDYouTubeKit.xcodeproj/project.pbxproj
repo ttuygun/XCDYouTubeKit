@@ -375,7 +375,6 @@
 				C2F0E56E1944F10E00D8EBA8 /* Sources */,
 				C2F0E5701944F10E00D8EBA8 /* Headers */,
 				C2F0E5711944F10E00D8EBA8 /* Resources */,
-				C23803F31B3847C60022F240 /* Analyzer */,
 			);
 			buildRules = (
 			);
@@ -445,20 +444,6 @@
 
 /* Begin PBXShellScriptBuildPhase section */
 		C222633B1B37660E00BA6719 /* Analyzer */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = Analyzer;
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = Scripts/analyzer.py;
-		};
-		C23803F31B3847C60022F240 /* Analyzer */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
